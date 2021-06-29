@@ -1,0 +1,8 @@
+void main() {
+  
+  double base = 4, altura = 4;
+  
+  double area = (base * altura);
+  
+  print("A area do quadrado eh: $area");
+}

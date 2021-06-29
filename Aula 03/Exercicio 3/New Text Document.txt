@@ -1,0 +1,8 @@
+void main() {
+  
+  double baseMenor = 3, baseMaior = 4, altura = 2;
+  
+  double area = ((baseMaior + baseMenor) * altura) /2;
+  
+  print("A area do Trapezio eh: $area");
+}
